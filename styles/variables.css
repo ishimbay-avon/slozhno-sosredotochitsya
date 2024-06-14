@@ -4,6 +4,7 @@
 */
 /* Файл variables.css */
 :root {
+  --background-color:#000028;
   --shadow-color: #ff0070;
   --shadow-color-desktop: #ff0070;
   --menu-color: #ff0070;
