@@ -1,0 +1,1 @@
+https://github.com/ishimbay-avon/slozhno-sosredotochitsya.git

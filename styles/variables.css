@@ -2,3 +2,14 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+/* Файл variables.css */
+:root {
+  --shadow-color: #ff0070;
+  --shadow-color-desktop: #ff0070;
+  --menu-color: #ff0070;
+  --header-title-color: #db00ff;
+  --accent-color: #ff0070;
+  --text-color: #f1b2ce;
+  --rec-color: #ff0070;
+  --header-image: url("../images/cover-image-dark.png");
+}
