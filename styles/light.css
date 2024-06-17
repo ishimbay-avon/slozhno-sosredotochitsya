@@ -12,6 +12,7 @@
   --shadow-color: #ff8dcb;
   --text-color: #353430;
   --rec-color: transparent;
+  --text-paragraph-color: #353430;
   --header-image: url("../images/cover-image-light.png");
 }
 .page.theme_light {
@@ -27,6 +28,7 @@
   --shadow-color: #ff8dcb;
   --text-color: #353430;
   --rec-color: transparent;
+  --text-paragraph-color: #353430;
   --header-image: url("../images/cover-image-light.png");
 }
 
@@ -40,6 +42,7 @@
     --shadow-color: #ff8dcb;
     --text-color: #353430;
     --rec-color: transparent;
+    --text-paragraph-color: #353430;
     --header-image: url("../images/cover-image-light.png");
   }
 }

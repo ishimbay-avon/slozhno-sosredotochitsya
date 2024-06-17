@@ -6,6 +6,8 @@
   box-sizing: border-box;
 }
 
+/* * {outline: 1px red solid; } */
+
 body {
   min-inline-size: 375px;
   max-inline-size: 1440px;
