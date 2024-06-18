@@ -7,6 +7,7 @@
   --background-color:#000028;
   --shadow-color: #ff0070;
   --menu-color: #ff0070;
+  --menu-hover-color:rgba(255, 0, 112, 0.4);
   --header-title-color: #db00ff;
   --accent-color: #ff0070;
   --text-color: #f1b2ce;
@@ -21,6 +22,7 @@
   --background-color:#000028;
   --shadow-color: #ff0070;
   --menu-color: #ff0070;
+  --menu-hover-color:rgba(255, 0, 112, 0.4);
   --header-title-color: #db00ff;
   --accent-color: #ff0070;
   --text-color: #f1b2ce;
