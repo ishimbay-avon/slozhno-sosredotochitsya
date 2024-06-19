@@ -3,19 +3,6 @@
   Здесь окажутся стили, которые нужно переопределить принудительно,
   переключая тему
 */
-:root.theme_light {
-  --background-color:#FFF1F7;
-  --accent-color: #ff8dcb;
-  --header-title-color: #ffc2e6;
-  --menu-color: #353430;
-  --menu-hover-color:rgba(50, 49, 45, 0.4);
-  --shadow-color-desktop: #ff0070;
-  --shadow-color: #ff8dcb;
-  --text-color: #353430;
-  --rec-color: transparent;
-  --text-paragraph-color: #353430;
-  --header-image: url("../images/cover-image-light.png");
-}
 .page.theme_light {
   /* сохраните этот селектор в приведённом виде.
     Так стили написанные ниже будут иметь больший вес,
